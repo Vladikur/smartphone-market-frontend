@@ -1,0 +1,24 @@
+body {
+  background-color: #659DBD;
+}
+
+.page {
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  min-width: 320px;
+  min-height: 100vh;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.app__header {
+  margin: 0;
+  font-family: Inter, 'Arial', sans-serif;
+  text-decoration: none;
+  font-style: normal;
+  font-weight: 500;
+  font-size: 30px;
+  line-height: 35px;
+  color: #FBEEC1;
+  text-align: center;
+}
